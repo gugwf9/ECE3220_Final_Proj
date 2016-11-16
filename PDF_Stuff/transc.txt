@@ -1,0 +1,607 @@
+Student Academic Profile
+
+Date:
+Name: ID: Date of Birth:
+
+14-NOV-2016
+Galusha,Gabriel Uzziah 16163077 01/16/XXXX
+
+ALEKS Math Placement Exam 2 (Expires in 11 months)
+
+01 CALEK NONP
+
+Non-proctored (LPS)
+
+02 CALEK NONP
+
+Non-proctored (LPS)
+
+73 87
+
+04/16/2014 06/05/2014
+
+American College Test
+
+03 CACT COMP
+
+Composite (ACT)
+
+04 CACT ENGL
+
+English (ACT)
+
+05 CACT EW
+
+Combined English/Writing (ACT)
+
+06 CACT MATH
+
+Math (ACT)
+
+07 CACT READ
+
+Reading (ACT)
+
+08 CACT SCIRE
+
+Science Reasoning (ACT)
+
+09 CACT WR
+
+Writing (ACT)
+
+10 CACT COMP
+
+Composite (ACT)
+
+11 CACT ENGL
+
+English (ACT)
+
+12 CACT MATH
+
+Math (ACT)
+
+13 CACT READ
+
+Reading (ACT)
+
+14 CACT SCIRE
+
+Science Reasoning (ACT)
+
+15 CACT COMP
+
+Composite (ACT)
+
+16 CACT ENGL
+
+English (ACT)
+
+17 CACT MATH
+
+Math (ACT)
+
+18 CACT READ
+
+Reading (ACT)
+
+19 CACT SCIRE
+
+Science Reasoning (ACT)
+
+20 CACT COMP
+
+Composite (ACT)
+
+21 CACT ENGL
+
+English (ACT)
+
+22 CACT MATH
+
+Math (ACT)
+
+23 CACT READ
+
+Reading (ACT)
+
+24 CACT SCIRE
+
+Science Reasoning (ACT)
+
+25 CACT COMP
+
+Composite (ACT)
+
+26 CACT ENGL
+
+English (ACT)
+
+27 CACT MATH
+
+Math (ACT)
+
+28 CACT READ
+
+Reading (ACT)
+
+29 CACT SCIRE
+
+Science Reasoning (ACT)
+
+24 25 24 26 24 22
+8 26 30 26 26 23 27 31 26 23 26 29 35 28 26 25 28 30 27 27 28
+
+02/01/2013 02/01/2013 02/01/2013 02/01/2013 02/01/2013 02/01/2013 02/01/2013 04/01/2013 04/01/2013 04/01/2013 04/01/2013 04/01/2013 09/01/2013 09/01/2013 09/01/2013 09/01/2013 09/01/2013 10/01/2013 10/01/2013 10/01/2013 10/01/2013 10/01/2013 12/01/2013 12/01/2013 12/01/2013 12/01/2013 12/01/2013
+
+Lamoni Community School ( 3/ 27 89%) High School Core Course GPA: 3.970 High School Transcript Type: FINL
+EN English 10th Grade EN English 11th Grade EN English 12th Grade EN English 9th Grade EN Other Core English FI Fine Arts FL Spanish II FL Spanish I MA Algebra I MA Algebra II MA Calculus MA Geometry MA Pre-Calculus MA Statistics SC Biology SC Chemistry I SC Natural/Physical Sciences SC Other Core Sci I SO Core Soc Sci II SO Core Soc Sci III SO Core Soc Sci I
+
+A 1.0 A 1.0 A 1.0 A 1.0 A 0.5 A 1.0 A 1.0 A 1.0 CR 1.0 A 1.0 AB 1.0 A 1.0 A 1.0 A 0.5 A 1.0 A 1.0 A 0.5 A 1.0 A 1.0 A 1.0 A 1.0
+
+Bio-Demographic & Miscellaneous Information Ethnic Group(s): White
+Permanent Address as of 08/05/2016: 1310 E Brown School Rd
+
+Student Academic Profile
+
+Columbia, MO 65202-0065 (319) 594-0133
+Residence Hall Address as of 08/20/2014: Hudson, 331B University of Missouri 1202 E Rollins Street Columbia, MO 65201-5155
+
+GPA Disclaimer "Non-UM System" transfer credit does not figure into overall GPA. Grades are only displayed on the student academic profile to aid in advising purposes.
+
+SPNG 2013 Graceland University
+
+Engl
+
+1410
+
+Modern Rhetoric
+
+A 3.0
+
+T
+
+FALL 2013 Graceland University
+
+Math
+
+1380
+
+Intro to Statistics
+
+Math
+
+1510
+
+Calculus I
+
+A 3.0 A 3.0
+
+T M,T
+
+SPNG 2014 Graceland University
+
+Math
+
+1350
+
+Discrete Math
+
+Math
+
+1520
+
+Calculus II
+
+B 3.0 B 3.0
+
+T M,T
+
+FALL 2014 Exam Credit
+
+Math
+
+1100
+
+College Algebra
+
+Math
+
+1160
+
+Precalculus Mathematics
+
+E 0.0 CR 5.0
+
+FALL 2014 Local Campus Credits
+
+Ugrd
+
+Undeclared,Engin
+
+Chem
+
+1320
+
+College Chemistry 1
+
+A- 4.0
+
+M
+
+Enginr 1000
+
+Intro to Engineering
+
+A 1.0
+
+Intdsc 1001
+
+Proseminar Intrdsc Stds
+
+S 1.0
+
+Math
+
+1700
+
+Calculus 2
+
+B 5.0
+
+M
+
+Pol Sc 1100
+
+American Government
+
+A- 3.0
+
+Hrs Att
+
+Hrs Ern
+
+Qual Pts
+
+GPA
+
+UGRD Term:
+
+13.0
+
+14.0
+
+44.90
+
+3.454
+
+UGRD CUM:
+
+13.0
+
+34.0
+
+44.90
+
+3.454
+
+SPNG 2015 Local Campus Credits
+
+Ugrd
+
+Undeclared,Engin
+
+Cmp Sc 1050
+
+Algorithm Design/Prog 1
+
+A 3.0
+
+M
+
+ECE 1210
+
+Intro to Logic Systems
+
+A+ 3.0
+
+Math
+
+2300
+
+Calculus 3
+
+B+ 3.0
+
+M
+
+Nutr S 1310
+
+Food and Cultures of the World
+
+A+ 3.0
+
+Ru Soc 1150
+
+The Amish Community
+
+A 3.0
+
+W
+
+Hrs Att
+
+Hrs Ern
+
+Qual Pts
+
+GPA
+
+UGRD Term:
+
+15.0
+
+15.0
+
+57.90
+
+3.860
+
+UGRD CUM:
+
+28.0
+
+49.0
+
+102.80
+
+3.671
+
+FALL 2015 Local Campus Credits
+
+Ugrd
+
+Computer Engineering-BSCOE
+
+ECE 3210
+
+Microprocessor Engineering
+
+A- 4.0
+
+Math
+
+4100
+
+Differential Equations
+
+B+ 3.0
+
+Physcs 2750
+
+University Physics 1
+
+B 5.0
+
+Hrs Att
+
+Hrs Ern
+
+Qual Pts
+
+GPA
+
+UGRD Term:
+
+12.0
+
+12.0
+
+39.70
+
+3.308
+
+UGRD CUM:
+
+40.0
+
+61.0
+
+142.50
+
+3.563
+
+SPNG 2016 Local Campus Credits
+
+Ugrd
+
+Computer Engineering-BSCOE
+
+Cmp Sc 2050
+
+Algrthm Dsgn & Program 2
+
+ECE 2100
+
+Circuit Theory 1
+
+Enginr 1200
+
+Stats & Elem Strngh Matr
+
+Physcs 2760
+
+University Physics 2
+
+A 3.0 A 4.0 B+ 3.0 B 5.0
+
+Student Academic Profile
+
+Stat
+
+4710
+
+Intro to Math Statistics
+
+A- 3.0
+
+Hrs Att
+
+Hrs Ern
+
+Qual Pts
+
+GPA
+
+UGRD Term:
+
+18.0
+
+18.0
+
+64.00
+
+3.556
+
+UGRD CUM:
+
+58.0
+
+79.0
+
+206.50
+
+3.560
+
+SUM 2016 Local Campus Credits
+
+Ugrd
+
+Computer Engineering-BSCOE
+
+Econom 1014
+
+Prncples of Microecon
+
+B 3.0
+
+Englsh 2150
+
+Popular Literature
+
+B+ 3.0
+
+- Popular Lit: Tolkien
+
+Hrs Att
+
+Hrs Ern
+
+Qual Pts
+
+GPA
+
+UGRD Term:
+
+6.0
+
+6.0
+
+18.90
+
+3.150
+
+UGRD CUM:
+
+64.0
+
+85.0
+
+225.40
+
+3.522
+
+FALL 2016 Local Campus Credits
+
+Ugrd
+
+Computer Engineering-BSCOE
+
+ECE 3220
+
+Software Design
+
+ECE 3410
+
+Elec Circuits & Signls 1
+
+ECE 3510
+
+Electromagnetic Fields
+
+ECE 3810
+
+Circuit Theory 2
+
+ECE 4250
+
+Vhdl & Prg Logic Device
+
+IP 3.0 IP 4.0 IP 3.0 IP 4.0 IP 4.0
+
+SPNG 2017 Local Campus Credits
+
+Ugrd
+
+Computer Engineering-BSCOE
+
+Cmp Sc 3050
+
+Advanced Algorithm Design
+
+PR 3.0
+
+ECE 3610
+
+Semiconductors & Devices
+
+PR 3.0
+
+ECE 4220
+
+Rt Embedded Computing
+
+PR 3.0
+
+ECE 4340
+
+Build Intelligent Robots
+
+PR 4.0
+
+ECE 4720
+
+Intro Machine Learning
+
+PR 3.0
+
+Hrs Att
+
+Hrs Ern
+
+Qual Pts
+
+GPA
+
+UGRD CUM:
+
+64.0
+
+85.0
+
+225.40
+
+3.522
+
+
