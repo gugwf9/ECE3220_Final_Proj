@@ -1,0 +1,56 @@
+
+1 of:
+Hist 1100 | 3
+Hist 1200 | 3
+Hist 1400 | 3
+Hist 2210 | 3
+Hist 2440 | 3
+Hist 4000 | 3
+Hist 4220 | 3
+Hist 4230 | 3
+Pol Sc 1100 | 3
+Pol Sc 2100 | 3
+
+3 Social Sciences | 3
+3 Fine Arts | 3
+1 must be 2000+ | 3
+1 must be WI | 3
+
+1 of:
+Stats & Elem Strngh Matr | Enginr 1200 | 3
+Thermodynamics | Enginr 2300 | 3
+Economic Analysis | IMSE 2710 | 3
+
+3 Tech Electives | 3/4
+
+2 ECE 4000+ | 3/4
+
+College Chemistry 1 | Chem 1320 | 4
+Exposition and Argumentation | Englsh 1000 | 3
+Intro to Engineering | Enginr 1000 | 1
+
+Calculus 1 | Math 1500 | 5
+Calculus 2 | Math 1700 | 5
+Calculus 3 | Math 2300 | 3
+Differential Equations | Math 4100 | 3
+Intro to Math Statistics | Stat 4710 | 3
+Discrete Mathematical Structures | Math 2320 | 3
+
+University Physics 1 | Physcs 2750 | 5
+University Physics 2 | Physcs 2760 | 5
+
+Algorithm Design/Prog 1 | Cmp Sc 1050 | 3
+Algrthm Dsgn & Program 2 | Cmp Sc 2050 | 3
+
+Intro to Logic Systems | ECE 1210 | 3
+Circuit Theory 1 | ECE 2100 | 4
+Microprocessor Engineering | ECE 3210 | 4
+Software Design | ECE 3220 | 3
+Elec Circuits & Signls 1 | ECE 3410 | 4
+Circuit Theory 2 | ECE 3810 | 4
+Signals and Linear Systems | ECE 3830 | 3
+Rt Embedded Computing | ECE 4220 | 3
+Vhdl & Prg Logic Device | ECE 4250 | 4
+Microcomputer Architecture and Interfacing | ECE 4270 | 4
+Projects Lab | ECE 3110 | 3
+Capstone Design | ECE 4970 | 3
