@@ -17,7 +17,6 @@ using namespace std;
 class parse{
 	private:
 		int check;
-		string fname;
 		string buffer;
 //		string dlim1;
 //		string dlim2;
@@ -40,6 +39,7 @@ class parse{
 };
 
 parse::parse(){
+	string fname="";	
 	cout << "Enter file to parse: ";
 	cin >> fname;
 	check=0;
