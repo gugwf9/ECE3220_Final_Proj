@@ -11,35 +11,35 @@ using namespace std;
 
 class compare{
 	protected:
-	fstream tak;
-	int countGen;
-	int techElect;
-	int ECE_4000;
-	vector<string> ECEtak;
-	vector<string> CStak;
-	vector<string> Mathtak;	
-	string MathReq[6];
-	string ECEReq[12];
-	string HisReq[10];
-	string EngReq[3];
-	string OtherReq[7];
-	bool find(const char*, const char*);
-	void fill();
-	void findNeed();
-	bool isElementOf(string, string[], int);
-	void checkElect();
-	vector<bool> checkMath();
-	vector<bool> checkECE();
-	vector<bool> checkOther();	
-	bool checkHist();
-	bool checkEng();
-//	void verify();	
+		fstream tak;
+		int countGen;
+		int techElect;
+		int ECE_4000;
+		vector<string> ECEtak;
+		vector<string> CStak;
+		vector<string> Mathtak;	
+		string MathReq[6];
+		string ECEReq[12];
+		string HisReq[10];
+		string EngReq[3];
+		string OtherReq[7];
+		bool find(const char*, const char*);
+		void fill();
+		void findNeed();
+		bool isElementOf(string, string[], int);
+		void checkElect();
+		vector<bool> checkMath();
+		vector<bool> checkECE();
+		vector<bool> checkOther();	
+		bool checkHist();
+		bool checkEng();
+	//	void verify();	
 	
 	public:
-	vector<string> file;		
-	fstream totak;	
-	compare();
-	~compare();
+		vector<string> file;		
+		fstream totak;	
+		compare();
+		~compare();
 };
 
 void compare::fill(){
@@ -374,7 +374,7 @@ void schedule::checkInterest(){
 		cout << "\t6. Control Systems" << endl << endl;
 		cout << "To see requirements for any of these, use the command \"see req number\". To choose an emphasis, simply enter the number itself. For help, enter \"help\"";
 		cout << endl << endl << "Input: ";
-//		cin.ignore();	
+		if(loop==0) cin.ignore();	
 		getline(cin, choice);
 //		cout << endl << "INPUT WAS: " << choice << endl << endl;
 		//help
@@ -472,7 +472,8 @@ void schedule::setRemainingElect(){
 			if(ECE_4000+techElect<numForEmph) cout << "To graduate, it is only necessary that you take " << ECE_4000+techElect << " more electives, while this emphasis includes 5 courses." << endl;
 			showReq(1);
 			cout << "Of these, which " << ECE_4000+techElect << " would you like to take? Notice, ECE 3510 is a pre-requisite for ECE 4940.";
-			for(int i=0; i<ECE_4000+techElect; i++){
+			for(int i=0; i<5; i++){
+				if((ECE_4000+techElect)==(i)) break;
 				cout << endl << "Input: ";
 				cin >> array[i];
 				if(array[i]==1) elect.push_back("ECE 4710");
@@ -488,7 +489,8 @@ void schedule::setRemainingElect(){
 			if(ECE_4000+techElect<numForEmph) cout << "To graduate, it is only necessary that you take " << ECE_4000+techElect << " more electives, while this emphasis includes 4 courses.";
 			showReq(2);
 			cout << "Of these, which " << ECE_4000+techElect << " would you like to take?";
-			for(int i=0; i<ECE_4000+techElect; i++){
+			for(int i=0; i<4; i++){
+				if((ECE_4000+techElect)==(i)) break;				
 				cout << endl << "Input: ";
 				cin >> array[i];
 				if(array[i]==1) elect.push_back("ECE 4870");
@@ -503,7 +505,8 @@ void schedule::setRemainingElect(){
 			if(ECE_4000+techElect<numForEmph) cout << "To graduate, it is only necessary that you take " << ECE_4000+techElect << " more electives, while this emphasis includes 3 courses.";
 			showReq(3);
 			cout << "Of these, which " << ECE_4000+techElect << " would you like to take?" << endl;
-			for(int i=0; i<ECE_4000+techElect; i++){
+			for(int i=0; i<3; i++){
+				if((ECE_4000+techElect)==(i)) break;			
 				cout << endl << "Input: ";
 				cin >> array[i];
 				if(array[i]==1) elect.push_back("ECE 4655");
@@ -517,7 +520,8 @@ void schedule::setRemainingElect(){
 			if(ECE_4000+techElect<numForEmph) cout << "To graduate, it is only necessary that you take " << ECE_4000+techElect << " more electives, while this emphasis includes 3 courses.";
 			showReq(4);
 			cout << "Of these, which " << ECE_4000+techElect << " would you like to take?";
-			for(int i=0; i<ECE_4000+techElect; i++){
+			for(int i=0; i<3; i++){
+				if((ECE_4000+techElect)==(i)) break;			
 				cout << endl << "Input: ";
 				cin >> array[i];
 				if(array[i]==1) elect.push_back("ECE 4655");
@@ -531,7 +535,8 @@ void schedule::setRemainingElect(){
 			if(ECE_4000+techElect<numForEmph) cout << "To graduate, it is only necessary that you take " << ECE_4000+techElect << " more electives, while this emphasis includes 3 courses.";
 			showReq(5);
 			cout << "Of these, which " << ECE_4000+techElect << " would you like to take?" << endl;
-			for(int i=0; i<ECE_4000+techElect; i++){
+			for(int i=0; i<3; i++){
+				if((ECE_4000+techElect)==(i)) break;			
 				cout << endl << "Input: ";
 				cin >> array[i];
 				if(array[i]==1) elect.push_back("ECE 4870");
@@ -546,7 +551,8 @@ void schedule::setRemainingElect(){
 			if(ECE_4000+techElect<numForEmph) cout << "To graduate, it is only necessary that you take " << ECE_4000+techElect << " more electives, while this emphasis includes 4 courses.";
 			showReq(6);
 			cout << "Of these, which " << ECE_4000+techElect << " would you like to take?" << endl;
-			for(int i=0; i<ECE_4000+techElect; i++){
+			for(int i=0; i<4; i++){
+				if((ECE_4000+techElect)==(i)) break;			
 				cout << endl << "Input: ";
 				cin >> array[i];
 				if(array[i]==1) elect.push_back("ECE 4310");
@@ -557,6 +563,13 @@ void schedule::setRemainingElect(){
 			break;			
 		}
 	}
+	
+	if(elect.size()<(ECE_4000+techElect)) {
+		ECE_4000=0;
+		techElect=(elect.size()-techElect);
+		cout << endl << endl << "You still have " << techElect << " electives to take. For the remaining: " << endl << endl;
+		checkInterest();
+	}
 }
 
 void schedule::checkDates(){
@@ -565,9 +578,9 @@ void schedule::checkDates(){
 	}
 	for(int i=0; i<elect.size(); i++){
 		///////need to find courses only offred in fall and spring////////
-		if(this->file[i]=="") ++fallOnly;
-		if(this->file[i]=="") ++fallOnly;
-		if(this->file[i]=="") ++fallOnly;				
+//		if(this->file[i]=="") ++fallOnly;
+//		if(this->file[i]=="") ++fallOnly;
+//		if(this->file[i]=="") ++fallOnly;				
 	}
 }
 
